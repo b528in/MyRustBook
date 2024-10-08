@@ -1,0 +1,11 @@
+[book]
+authors = ["renxiangbin"]
+language = "en"
+multilingual = true
+src = "src"
+title = "MyRustBook"
+[output.html.playground]
+editable = true
+
+[output.html]
+mathjax-support = true
